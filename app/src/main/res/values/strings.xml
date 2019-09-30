@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sakura Boutique (Admin)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tiet_id">Enter ID</string>
+    <string name="tiet_name">Enter Name</string>
+    <string name="tiet_brand">Enter Brand</string>
+    <string name="tiet_price">Enter Price</string>
+    <string name="tiet_description">Enter Description</string>
+    <string name="switch_fix">Choose By Category?</string>
+    <string name="cb_small">Small</string>
+    <string name="cb_medium">Medium</string>
+    <string name="cb_large">Large</string>
+    <string name="cb_extralarge">Extra Large</string>
+    <string name="tiet_freesize">Then, Enter Size Value</string>
+    <string name="texton">Yes</string>
+    <string name="textoff">No</string>
+</resources>
